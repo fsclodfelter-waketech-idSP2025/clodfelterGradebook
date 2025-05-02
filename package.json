@@ -1,0 +1,24 @@
+{
+  "name": "clodfeltergradebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cti_110_node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fsclodfelter-waketech-idSP2025/clodfelterGradebook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fsclodfelter-waketech-idSP2025/clodfelterGradebook/issues"
+  },
+  "homepage": "https://github.com/fsclodfelter-waketech-idSP2025/clodfelterGradebook#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.15.6"
+  }
+}
